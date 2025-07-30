@@ -1,0 +1,70 @@
+{
+  "groups": [
+    {
+      "entity": {
+        "id": "2593908513",
+        "username": "pgtvmarket",
+        "title": "PGTV Market",
+        "accessHash": "4304629849644491576"
+      },
+      "hasTopics": true,
+      "writeStatus": {
+        "canWrite": true,
+        "reason": "Unknown"
+      },
+      "topics": [
+        {
+          "id": 1,
+          "title": "Main Chat",
+          "closed": true
+        },
+        {
+          "id": 9,
+          "title": "PGTV NETWORK",
+          "closed": false
+        },
+        {
+          "id": 7,
+          "title": "Middleman",
+          "closed": true
+        },
+        {
+          "id": 8,
+          "title": "TOS",
+          "closed": true
+        },
+        {
+          "id": 5,
+          "title": "Telegram Accounts",
+          "closed": false
+        },
+        {
+          "id": 10,
+          "title": "Services",
+          "closed": false
+        },
+        {
+          "id": 2,
+          "title": "Instagram Accounts",
+          "closed": false
+        },
+        {
+          "id": 3,
+          "title": "Twitter Accounts",
+          "closed": false
+        },
+        {
+          "id": 4,
+          "title": "Snapchat Accounts",
+          "closed": false
+        },
+        {
+          "id": 6,
+          "title": "YouTube Accounts",
+          "closed": false
+        }
+      ]
+    }
+  ],
+  "lastUpdated": 1749295044893
+}
